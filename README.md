@@ -18,3 +18,10 @@ This project uses a machine learning model to detect fraudulent credit card tran
 
 2. Run the project:
    python fraud_detection.py
+   ## Output
+The model predicts whether a transaction is fraudulent or not based on input features.
+
+## Future Improvements
+- Add visualization using Matplotlib
+- Improve accuracy using advanced models
+- Deploy as a web application
