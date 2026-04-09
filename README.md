@@ -1,2 +1,20 @@
-# credit-card-fraud-detection
- Developed a machine learning model to detect fraudulent financial transactions using classification algorithms. Includes data preprocessing, feature engineering, and model evaluation to improve accuracy and enable real-time fraud prediction for enhanced financial security.
+# Credit Card Fraud Detection
+
+This project uses a machine learning model to detect fraudulent credit card transactions.
+
+## Features
+- Data preprocessing and cleaning
+- Logistic Regression model for classification
+- Performance evaluation using accuracy and classification report
+
+## Tech Stack
+- Python
+- Pandas
+- Scikit-learn
+
+## How to Run
+1. Install dependencies:
+   pip install -r requirements.txt
+
+2. Run the project:
+   python fraud_detection.py
